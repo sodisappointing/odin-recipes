@@ -1,0 +1,33 @@
+img {
+    width: auto;
+    height: 400px;
+}
+
+body {
+    font-family:Garamond, Georgia, serif;
+    background-color: steelblue;
+}
+
+.heading{
+    font-weight:bold;
+    color:brown;
+}
+
+.title{
+    color: rebeccapurple;
+}
+
+.list{
+    font-size:14px;
+    font-family:Arial, sans-serif;
+}
+
+#ingredients-list {
+    color:white;
+    background-color:darkblue;
+}
+
+#recipe-steps {
+    color:darkblue;
+    background-color: lightpink;
+}
